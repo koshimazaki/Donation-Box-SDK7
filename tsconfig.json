@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "strict": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "dcl-crypto-toolkit.d.ts" // Add this line if the file is in the root directory
+
+  ],
+  "extends": "@dcl/sdk/types/tsconfig.ecs7.json"
+}
