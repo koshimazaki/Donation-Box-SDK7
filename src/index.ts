@@ -5,9 +5,7 @@ import { initAssetPacks } from '@dcl/asset-packs/dist/scene-entrypoint'
 
 import { buildScene } from './builder'
 
- import { setupUi } from './ui'
-
-
+import { setupUi } from './ui'
 
 function main(){
 

@@ -6,7 +6,7 @@
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
-    "dcl-crypto-toolkit.d.ts" // Add this line if the file is in the root directory
+    "dcl-crypto-toolkit.d.ts"
 
   ],
   "extends": "@dcl/sdk/types/tsconfig.ecs7.json"

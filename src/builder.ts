@@ -1,7 +1,8 @@
 import {Vector3,Quaternion } from '@dcl/sdk/math'
-import { Animator, MeshCollider, Name, TextShape, AudioSource, Entity, AvatarAttach, GltfContainer, Transform, VisibilityComponent, engine, pointerEventsSystem, MeshRenderer } from '@dcl/sdk/ecs'
+import { MeshCollider, Name, TextShape, GltfContainer, Transform, engine, MeshRenderer } from '@dcl/sdk/ecs'
 
 
+// build scene, all models besides the box are below 
 
 export function buildScene() {
   
@@ -255,10 +256,4 @@ export function buildScene() {
     rotation: Quaternion.create(0, 0, 0, 1),
     scale: Vector3.create(1, 1, 1)
   })
-  
-
-  
-
 }
-
-
