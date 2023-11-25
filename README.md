@@ -1,7 +1,7 @@
 ## Donation Box in Decentraland SDK7
 
 A simple interactive scene in Decentraland enabling users to donate $MANA through a virtual donation box.
-Code refactored to DCK SDK7.
+Code refactored to DCL SDK7.
 
 Key components:
 - Web3 Tools: Uses eth-connect and dcl-crypto-utils-library for $MANA transactions.
