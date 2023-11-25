@@ -11,8 +11,8 @@ import {
 import { Color4, Vector3, Quaternion } from '@dcl/sdk/math'
 import ReactEcs, { Button, Input, Label, ReactEcsRenderer, UiEntity } from '@dcl/sdk/react-ecs'
 import * as ui from 'dcl-ui-toolkit'
-//import crypto from 'dcl-crypto-toolkit'
-import * as crypto from 'dcl-crypto-toolkit';  //this works
+import crypto from 'dcl-crypto-toolkit'
+//import * as crypto from 'dcl-crypto-toolkit';  //this works
 
 // set your wallet address here 
 
