@@ -1,4 +1,19 @@
-# SDK7 Template scene
+## Donation Box in Decentraland SDK7
+
+A simple interactive scene in Decentraland enabling users to donate $MANA through a virtual donation box.
+Code refactored to DCK SDK7.
+
+Key components:
+- Web3 Tools: Uses eth-connect and dcl-crypto-utils-library for $MANA transactions.
+- UI: Built with DCL React for user interface design.
+
+https://github.com/koshimazaki/Donation-Box-SDK7/assets/18751916/c00471a8-8cb7-49e2-b08e-ce071808cc24
+
+
+
+# Guide to setup SDK7 scene 
+
+## SDK7 Template scene
 
 ## Try it out
 
