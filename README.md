@@ -9,7 +9,7 @@ Key components:
 
 https://github.com/koshimazaki/Donation-Box-SDK7/assets/18751916/c00471a8-8cb7-49e2-b08e-ce071808cc24
 
-Repo need [Decentraland Crypto Toolkit](https://github.com/decentraland/dcl-crypto-toolkit) installed.
+Repo need [Decentraland Crypto Toolkit](https://github.com/decentraland/dcl-crypto-toolkit) installed apart from below.
 
 # Guide to setup SDK7 scene 
 
